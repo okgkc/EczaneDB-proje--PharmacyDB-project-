@@ -1,0 +1,36 @@
+C:\Users\6\source\repos\ECZANE\ECZANE\bin\Debug\ECZANE.exe.config
+C:\Users\6\source\repos\ECZANE\ECZANE\bin\Debug\ECZANE.exe
+C:\Users\6\source\repos\ECZANE\ECZANE\bin\Debug\ECZANE.pdb
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.csprojAssemblyReference.cache
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.AnaForm.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.Properties.Resources.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.csproj.GenerateResource.cache
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.csproj.CoreCompileInputs.cache
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.exe
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.pdb
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.HastaListe.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.HastaFormu.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.IlacListe.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.IlacFormu.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.IlacSatisFormu.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.IlacSatisListesi.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.ReceteFormu.resources
+C:\Users\6\source\repos\ECZANE\ECZANE\obj\Debug\ECZANE.ReceteListe.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\bin\Debug\ECZANE.exe.config
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\bin\Debug\ECZANE.exe
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\bin\Debug\ECZANE.pdb
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.csprojAssemblyReference.cache
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.AnaForm.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.HastaFormu.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.HastaListe.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.IlacFormu.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.IlacListe.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.IlacSatisFormu.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.IlacSatisListesi.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.Properties.Resources.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.ReceteFormu.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.ReceteListe.resources
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.csproj.GenerateResource.cache
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.csproj.CoreCompileInputs.cache
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.exe
+C:\Users\6\Desktop\dersler\bahar dönemi dersler\veritabanı\veritabanı proje\ECZANE\ECZANE\obj\Debug\ECZANE.pdb
